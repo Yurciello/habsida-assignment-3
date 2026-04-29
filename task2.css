@@ -87,6 +87,7 @@ body {
   /* white-space: nowrap; */
   z-index: 2;
   /* box-sizing: border-box; */
+  max-width: 80%;
   background-color: #fff;
   padding: 1rem;
   border-radius: 0.5rem;
